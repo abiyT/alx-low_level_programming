@@ -1,1 +1,1 @@
-A pointer is a variable that stores the memory address of another variable as its value. A pointer variable points to a data type 
+0x05-pointers_arrays_string
